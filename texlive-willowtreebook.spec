@@ -1,6 +1,6 @@
 Name:		texlive-willowtreebook
 Version:	60638
-Release:	1
+Release:	2
 Summary:	Easy basic book class, built on memoir
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/willowtreebook
