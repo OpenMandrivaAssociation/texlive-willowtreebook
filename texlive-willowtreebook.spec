@@ -3,7 +3,7 @@ Version:	60638
 Release:	2
 Summary:	Easy basic book class, built on memoir
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/willowtreebook
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/willowtreebook
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/willowtreebook.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/willowtreebook.doc.r%{version}.tar.xz
